@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+posts:
   message: "Hey, welcome to maroX posts prod configurations"
   contactDetails:
     name: "Maro Elsays - Product Owner"
