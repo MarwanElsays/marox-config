@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+posts:
   message: "Welcome to maroX posts qa configuration file"
   contactDetails:
     name: "Marwan Elsays - QA Lead"
