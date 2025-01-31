@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to maroX users qa configuration file"
+  contactDetails:
+    name: "Marwan Elsays - QA Lead"
+    email: "marwanelsays2018@gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
