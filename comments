@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-posts:
+comments:
   message: "Welcome to maroX comments configuration file "
   contactDetails:
     name: "Marwan Elsays - Developer"
