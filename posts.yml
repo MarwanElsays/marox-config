@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+posts:
   message: "Welcome to maroX posts configuration file "
   contactDetails:
     name: "Marwan Elsays - Developer"
