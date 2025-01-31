@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-posts:
+comments:
   message: "Welcome to maroX comments qa configuration file"
   contactDetails:
     name: "Marwan Elsays - QA Lead"
