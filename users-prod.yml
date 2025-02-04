@@ -4,7 +4,7 @@ build:
 users:
   message: "Hey, welcome to maroX users prod configurations"
   contactDetails:
-    name: "Marwan Elsays - Product Owner"
+    name: "Maro Elsays - Product Owner"
     email: "maroelsays2013@gmail.com"
   onCallSupport:
     - (453) 392-4829
